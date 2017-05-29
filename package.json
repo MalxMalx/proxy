@@ -1,0 +1,17 @@
+{
+  "name": "proxy",
+  "version": "0.0.1",
+  "description": "small proxy to redirect calls cross-domain calls",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.3",
+    "body-parser": "^1.8.2",
+    "serve-favicon": "^2.0.1",
+    "morgan": "^1.1.1"
+  }
+}
